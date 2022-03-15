@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Un Podcast sulla Formula 1 on LockUp</title>
+    <link>https://lock-up.it/</link>
+    <description>Recent content in Un Podcast sulla Formula 1 on LockUp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lock-up.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduzione</title>
+      <link>https://lock-up.it/posts/introduzione/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lock-up.it/posts/introduzione/</guid>
+      <description>LockUp, un podcast sulla Formula 1 nato per intervistare Fernando Alonso. Ciao a tutti, noi siamo @protofra e @herbertvongallo e questo è LockUp: un podcast non troppo serio sulla Formula 1.
+Nel corso dei mesi andremo a commentare i Gran Premi del Campionato del Mondo di F1 2022; il tutto con pochissima conoscenza tecnica ma con tanta voglia di mettere zizzania.
+Trovate LockUp su tutte le piattaforme streaming possibili ed immaginabili, mentre noi due - i vostri splendidi host - siamo su Instagram.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lock-up.it/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lock-up.it/pages/about/</guid>
+      <description>LockUp, un podcast sulla Formula 1 nato per intervistare Fernando Alonso.  Lockup (in italiano bloccàggio s. m. [dal fr. blocage, der. di bloquer «bloccare»; nel sign. 5, tratto direttamente da blocco1]. – 1. In meccanica, azione (e, nell’uso corrente, anche il congegno) con cui si vincola un pezzo a un altro, impedendo il moto relativo dei due; per estens., l’arresto, più o meno rapido, di un meccanismo, di una macchina: il b.</description>
+    </item>
+    
+  </channel>
+</rss>
