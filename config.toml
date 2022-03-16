@@ -15,7 +15,7 @@ paginate = 3
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-W2QN5M51DJ"
   twitter_handle = "@protofra"
   showAuthorOnHomepage = false
   showAuthorOnPosts = false

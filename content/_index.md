@@ -5,9 +5,8 @@ description: LockUp, un podcast sulla Formula 1.
 
 Siamo [@protofra](https://www.instagram.com/protofra/) e [@herbertvongallo.](https://www.instagram.com/herbertvongallo/) 
 
-**Parliamo di Formula 1**. 
+## **Parliamo di Formula 1**. 
 
-Commenti, _illazioni_, analisi e _zizzania_ a seguito dei Gran Premi del nostro sport preferito. Il tutto con la massima serietà e professionalità; forse.
 
-Trovate **LockUp** su tutte le piattaforme streaming possibili ed immaginabili.
+Ascolta **LockUp** su **[Spotify](https://open.spotify.com/show/6wcY5mpmlceww6YUyx5lSL?si=f4629261d5b84b02)**, **[Apple Podcasts](https://podcasts.apple.com/it/podcast/lockup/id1614484519)** e **Google Podcasts**. 
 

@@ -5,6 +5,7 @@ description: 'LockUp, un podcast sulla Formula 1.'
 image: images/logo.JPG
 ---
 
+
 ## **LockUp**, un podcast sulla Formula 1 nato per intervistare Fernando Alonso. 
 
 Ciao a tutti, noi siamo **[@protofra](https://www.instagram.com/protofra/)** e **[@herbertvongallo](https://www.instagram.com/herbertvongallo/)** e questo è **LockUp**: un podcast _non troppo serio_ sulla Formula 1. 
