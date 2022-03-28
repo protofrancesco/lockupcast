@@ -1,7 +1,7 @@
 ---
 title: Verstappen, Leclerc e le bombe nell'aria | EP 2
 date: 2022-03-28
-description: 'Max Verstappen vince il Gran Premio d'Arabia Saudita'
+description: 'Verstappen, Lecerc e Sainz a podio!'
 image: images/jedda.jpg
 ---
 
