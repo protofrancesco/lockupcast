@@ -1,7 +1,7 @@
 ---
 title: Verstappen, Leclerc e le bombe nell'aria | EP 2
 date: 2022-03-28
-description: 'Verstappen, Lecerc e Sainz a podio!'
+description: 'Verstappen, Leclerc e Sainz completano il podio a Jeddah!'
 image: images/jedda.jpg
 ---
 
