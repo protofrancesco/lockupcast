@@ -6,9 +6,10 @@
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/protofrancesco",
-      "image": "images/social/github.svg"
+      "name": "spotify",
+      "url": "https://open.spotify.com/show/6wcY5mpmlceww6YUyx5lSL?si=6dd3e2e320824c8c",
+      "image": "images/social/spotify.svg"
     }
+
   ]
 }
