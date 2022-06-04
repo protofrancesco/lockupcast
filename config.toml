@@ -23,4 +23,7 @@ paginate = 3
   addFrame = true
   addDot = true
 
-  
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
