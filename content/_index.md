@@ -1,6 +1,6 @@
 ---
 title: Un Podcast sulla Formula 1
-description: LockUp, un podcast sulla Formula 1.
+description: Podcast Formula 1
 ---
 
 Siamo [@protofra](https://www.instagram.com/protofra/) e [@herbertvongallo.](https://www.instagram.com/herbertvongallo/) 
