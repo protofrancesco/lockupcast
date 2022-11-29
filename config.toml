@@ -3,7 +3,7 @@ languageCode = "it-it"
 title = "LockUp"
 
 
-
+enableRobotsTXT = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -22,6 +22,9 @@ paginate = 3
   showPostsOnHomepage = false
   addFrame = true
   addDot = true
+  title = "podcast Formula 1"
+  description = "Podcast sulla Formula 1. Raccontiamo il mondo della Formula 1 con ironia: trovate il nostro podcast sulla Formula 1 su tutte le piattaforme. "
+  Twitter_Image = "/static/images/logo.JPG"
 
 [sitemap]
   changefreq = 'daily'
