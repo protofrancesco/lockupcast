@@ -1,6 +1,11 @@
 ---
 title: Un Podcast sulla Formula 1
-description: Podcast Formula 1
+description: Podcast Formula 1 
+keywords: 
+- podcast formula 1 
+- podcast sulla formula 1
+- podcast f1 
+- f1 podcast
 ---
 
 Siamo [@protofra](https://www.instagram.com/protofra/) e [@herbertvongallo.](https://www.instagram.com/herbertvongallo/) 
