@@ -2,6 +2,12 @@
 title: Warm up | EP 0
 date: 2023-02-28
 description: 'Nuova stagione di Formula 1 e nuova stagione di Lockup!'
+keywords:
+- podcast formula 1
+- formula 1
+- podcast f1
+- leclerc podcast
+- podcast f1
 image: images/fernando.jpeg
 ---
 
